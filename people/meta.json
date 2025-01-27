@@ -620,6 +620,12 @@
         "teach-courses": [
             [
                 "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
+            ],
+            [
+                "Fall",
                 "2022",
                 "CS101",
                 "Algorithms and Data Structures"
@@ -1153,6 +1159,12 @@
             ]
         ],
         "teach-courses": [
+            [
+                "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
+            ],
             [
                 "Fall",
                 "2022",
@@ -8381,6 +8393,12 @@
         "teach-courses": [
             [
                 "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
+            ],
+            [
+                "Fall",
                 "2022",
                 "CS101",
                 "Algorithms and Data Structures"
@@ -8729,6 +8747,12 @@
         ],
         "ta-courses": [
             [
+                "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
+            ],
+            [
                 "Spring",
                 "2023",
                 "CS110",
@@ -8800,6 +8824,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
+            ],
             [
                 "Spring",
                 "2022",
@@ -11373,6 +11403,12 @@
         "teach-courses": [
             [
                 "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
+            ],
+            [
+                "Fall",
                 "2022",
                 "CS101",
                 "Algorithms and Data Structures"
@@ -11865,6 +11901,12 @@
         ],
         "ta-courses": [
             [
+                "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
+            ],
+            [
                 "Spring",
                 "2023",
                 "CS100",
@@ -11882,6 +11924,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
+            ],
             [
                 "Spring",
                 "2023",
@@ -12096,6 +12144,14 @@
                 "&#98;&#97;&#x69;&#x79;&#x6e;&#50;&#48;&#50;&#x32;&#x40;&#x73;&#x68;&#97;&#x6e;&#x67;&#x68;&#x61;&#x69;&#x74;&#x65;&#99;&#x68;&#46;&#x65;&#x64;&#x75;&#x2e;&#99;&#110;",
                 "mailto:&#98;&#x61;&#105;&#121;&#110;&#50;&#x30;&#x32;&#50;&#x40;&#115;&#x68;&#x61;&#x6e;&#103;&#104;&#97;&#105;&#116;&#101;&#99;&#104;&#46;&#x65;&#100;&#x75;&#x2e;&#x63;&#110;"
             ]
+        ],
+        "ta-courses": [
+            [
+                "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
+            ]
         ]
     },
     "zulk2024": {
@@ -12105,6 +12161,14 @@
                 "envelope",
                 "&#x7a;&#x75;&#x6c;&#x6b;&#x32;&#48;&#x32;&#52;&#x40;&#115;&#104;&#x61;&#110;&#103;&#104;&#x61;&#105;&#x74;&#x65;&#x63;&#104;&#x2e;&#x65;&#100;&#x75;&#x2e;&#x63;&#x6e;",
                 "mailto:&#122;&#117;&#x6c;&#x6b;&#50;&#48;&#x32;&#52;&#64;&#115;&#x68;&#x61;&#110;&#x67;&#x68;&#97;&#x69;&#x74;&#101;&#99;&#104;&#x2e;&#x65;&#x64;&#117;&#x2e;&#x63;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Fall",
+                "2024",
+                "CS101",
+                "Algorithms and Data Structures"
             ]
         ]
     }

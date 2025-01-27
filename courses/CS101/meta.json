@@ -192,5 +192,6 @@
             "prerequisite": "Introduction to Programming",
             "evaluation": "Exams (45%, mid-term 25%, final 20%), Weekly Homework (20%), 4 Programming Tasks (20%), In-class Quizzes (15%)"
         }
-    ]
+    ],
+    "status": "activate"
 }
